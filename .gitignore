@@ -1,0 +1,10 @@
+ligador
+main
+
+.vscode
+.idea
+
+*.asm
+*.pre
+*.obj
+*.e
